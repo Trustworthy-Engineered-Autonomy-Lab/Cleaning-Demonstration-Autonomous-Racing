@@ -1,3 +1,6 @@
 [submodule "autoencoder_metric"]
 	path = autoencoder_metric
 	url = git@github.com:Trustworthy-Engineered-Autonomy-Lab/autoencoder_metric.git
+[submodule "donkeycar_CNN"]
+	path = donkeycar_CNN
+	url = git@github.com:Trustworthy-Engineered-Autonomy-Lab/Donkeycar_CNN.git
