@@ -1,0 +1,3 @@
+[submodule "autoencoder_metric"]
+	path = autoencoder_metric
+	url = git@github.com:Trustworthy-Engineered-Autonomy-Lab/autoencoder_metric.git
