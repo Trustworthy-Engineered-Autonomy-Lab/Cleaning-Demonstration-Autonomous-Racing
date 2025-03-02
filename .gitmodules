@@ -4,3 +4,6 @@
 [submodule "donkeycar_CNN"]
 	path = donkeycar_CNN
 	url = git@github.com:Trustworthy-Engineered-Autonomy-Lab/Donkeycar_CNN.git
+[submodule "CAE_data_clean"]
+	path = CAE_data_clean
+	url = git@github.com:YangZhou0011/CAE_data_cleaning.git
